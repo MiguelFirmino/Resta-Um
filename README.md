@@ -27,6 +27,9 @@ An example of a lost game where there are no more legal moves.❌
   <img height="300px" src="images/game-pic2.png" alt="game image 2">
 </div>
 
-<!-- 
-## Takeaway
--->
+## Takeaway🚩
+
+The main point to take from this project's game delevelopment is to better utilize iteration and recursion whenever dealing with
+multiple similar pieces of logic. The generation of the game's board could've been done in a much more elegant and simpler way
+instead of writing piece by piece by hand. No only that but piece movement and checking if moves are possible could've implemented
+efficient but simple algorithms for that matter.
